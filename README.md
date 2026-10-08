@@ -4,7 +4,7 @@
 
 ### Software Engineering Undergraduate · Full-Stack & Mobile Developer · Founder @ Kalvi.lk
 
-Building practical software across web, mobile, cloud, and AI.
+Building practical software across web, mobile, backend, and AI-assisted systems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jeyamdev-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeyamdev/)
 [![GitHub](https://img.shields.io/badge/GitHub-Jeyamdev-181717?style=flat&logo=github&logoColor=white)](https://github.com/Jeyamdev)
@@ -15,11 +15,12 @@ Building practical software across web, mobile, cloud, and AI.
 ## About Me
 
 - 🎓 Software Engineering undergraduate at **SLIIT**
-- 💻 Interested in **full-stack development, mobile engineering, software architecture, and AI-powered systems**
-- 🚀 Founder of **[Kalvi.lk](https://kalvi.lk)**, a Sri Lankan education platform
-- 🤖 Exploring **Agentic AI** and its integration into real software products
-- 📱 Building applications with **React, .NET, Spring Boot, React Native, Flutter, and PostgreSQL**
-- 🌱 Currently focused on strengthening production-ready engineering, system design, and AI integration
+- 💻 Building **full-stack, backend, and mobile applications**
+- 📱 Mobile development with **React Native, Expo, and TypeScript**
+- ⚙️ Backend experience with **ASP.NET Core, Spring Boot, Node.js, Express.js, and FastAPI**
+- 🚀 Founder & Product Lead of **[Kalvi.lk](https://kalvi.lk)**, a Sri Lankan education platform
+- 🤖 Exploring **Agentic AI** through software-engineering projects
+- 🌱 Currently strengthening software architecture, testing, CI/CD, and production-ready engineering
 
 ## Tech Stack
 
@@ -38,49 +39,47 @@ Building practical software across web, mobile, cloud, and AI.
 
 ### Mobile
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
 
 ### Data & Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ## Featured Projects
 
-### ⚖️ [LegalEase AI](https://github.com/Jeyamdev/legalease-ai)
-An intelligent legal-service platform combining full-stack application development with **Agentic AI**, lawyer discovery, recommendations, availability, and service-management workflows.
+### 🤱 [Maa Care](https://github.com/Jeyamdev/maa-care-V2)
+Tamil EPDS screening and education application built with **React Native, Expo, and TypeScript**, with offline assessment history, shared domain logic, a privacy-focused web implementation, and automated browser/accessibility checks.
 
-### 🤱 [Maa Care](https://github.com/Jeyamdev/maa-care-epds)
-A privacy-focused mobile application for EPDS screening, designed with an offline-first approach using **React Native, Expo, and TypeScript**.
+### ⚖️ [LegalEase AI](https://github.com/Jeyamdev/legalease-ai)
+Intelligent legal-service platform using **ASP.NET Core, React, PostgreSQL, and an AI service**, covering lawyer discovery, legal services, availability, recommendation workflows, and related platform features.
+
+### 💬 [StructaIQ Platform](https://github.com/Jeyamdev/Structal_Q-platform)
+Academic evaluation platform combining web, backend, database, and AI-assisted workflows. My work included academic configuration and marking-guide management functionality.
 
 ### 🍽️ [CampusEats Task Tracker](https://github.com/Jeyamdev/campuseats-task-tracker)
-A software-engineering project focused on structured development workflows, Git collaboration, issue tracking, pull requests, and CI practices.
-
-### 💬 [Structal Q Platform](https://github.com/Jeyamdev/Structal_Q-platform)
-A platform project exploring structured user interactions and full-stack application development.
+Software-engineering exercise focused on **Git collaboration, issue tracking, pull requests, and CI workflows**.
 
 ## Building Beyond Coursework
 
 ### 🎓 Kalvi.lk
-I founded **Kalvi.lk** to build useful digital education services for Sri Lankan students. Working on Kalvi has given me hands-on experience beyond coding, including product planning, requirements, platform operations, UX decisions, growth, and turning real user needs into software.
+I founded **Kalvi.lk** and lead its product direction. My work includes product planning, requirements, UX review, platform operations, analytics, content administration, and coordinating software features with a developer.
 
-My current direction is to combine the existing Kalvi ecosystem with products such as digital exams, student tools, and AI-assisted learning experiences.
+Kalvi has grown into an established Sri Lankan education platform, and I continue exploring products such as digital exams, student tools, and interactive learning experiences.
 
 ## Current Focus
 
-- Building robust **full-stack applications**
+- Building reliable **full-stack and backend applications**
 - Developing **mobile-first products**
-- Designing scalable **REST APIs and backend systems**
-- Applying **Agentic AI** to real workflows
-- Improving **software architecture, testing, CI/CD, and deployment**
-- Growing from university projects into production-grade engineering
+- Designing **REST APIs and database-backed systems**
+- Applying **Agentic AI** to controlled software workflows
+- Improving **testing, Git workflows, CI/CD, and deployment practices**
 
 ## Let's Connect
 
-I'm open to **Software Engineering internships, developer opportunities, technical collaborations, and interesting product ideas**.
+I'm open to **Software Engineering internships, developer opportunities, technical collaborations, and product ideas**.
 
 📫 **Email:** [jeyamoff@gmail.com](mailto:jeyamoff@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/jeyamdev](https://www.linkedin.com/in/jeyamdev/)  
