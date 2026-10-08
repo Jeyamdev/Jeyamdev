@@ -59,9 +59,6 @@ Intelligent legal-service platform using **ASP.NET Core, React, PostgreSQL, and 
 ### 💬 [StructaIQ Platform](https://github.com/Jeyamdev/Structal_Q-platform)
 Academic evaluation platform combining web, backend, database, and AI-assisted workflows. My work included academic configuration and marking-guide management functionality.
 
-### 🍽️ [CampusEats Task Tracker](https://github.com/Jeyamdev/campuseats-task-tracker)
-Software-engineering exercise focused on **Git collaboration, issue tracking, pull requests, and CI workflows**.
-
 ## Building Beyond Coursework
 
 ### 🎓 Kalvi.lk
